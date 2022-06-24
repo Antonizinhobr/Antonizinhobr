@@ -6,7 +6,7 @@
 
 <div align="center">
   <video width="320" height="240">
-  <source src="https://tenor.com/view/cat-crazy-cat-keyboard-cat-fast-gif-5753018" type="video/mp4">
+  <source src="https://tenor.com/view/cat-crazy-cat-keyboard-cat-fast-gif-5753018" type="video/gif">
 </video>
 </div>
 
