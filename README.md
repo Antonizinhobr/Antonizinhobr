@@ -14,8 +14,8 @@
 
 <br>
 
-<div>
-  <h1> 🖥️ I use it for web development full-stack</h1>
+<div align="center">
+  <h1> 🖥️ I use it for full-stack web development</h1>
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -28,7 +28,7 @@
 
 <br>
 
-<div>
+<div align="center">
   <h1> 🖥️ I use it for mobile development</h1>
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -37,7 +37,7 @@
 
 <br>
 
-<div>
+<div align="center">
   <h1> 🖥️ I use it for database development</h1>
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
@@ -46,7 +46,7 @@
 
 <br>
 
-<div>
+<div align="center">
   <h1> 🖥️ I use it for desktop program development and data analysis</h1>
    <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
    <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
@@ -54,8 +54,8 @@
 
 <br>
 
-<h1>⚡GitHub Stats</h1>
-<div>
+<h1 align="center">⚡GitHub Stats</h1>
+<div align="center">
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonizinhobr&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonizinhobr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
