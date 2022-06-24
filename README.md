@@ -8,7 +8,7 @@
 
 <div>
   <h1>🔭 Tecnologias que uso</h1>
-  <img height="10em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <div>
 
 <br>
