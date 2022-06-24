@@ -1,11 +1,11 @@
-<div>
+<div align="center">
   <h1>👋Hello, i am Anthonny Michael👋</h1>
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/53356340/175666427-1de9ed80-7920-483e-9729-edbca0703b13.gif" />
+  <img src="https://user-images.githubusercontent.com/53356340/175666427-1de9ed80-7920-483e-9729-edbca0703b13.gif" autoplay/>
 </p>
 
 <div>
