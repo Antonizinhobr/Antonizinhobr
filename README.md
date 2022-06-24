@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, pessoa que visitou meu perfil, fico feliz ### 👋
 
-<!--
-**Antonizinhobr/Antonizinhobr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou trabalhando em AeC Arapiraca como Analista do Ifood!
+- 🌱 Atualmente estou aprendendo Desenvolvimento Web Full Stack, React Native e Node.js e Segurança da Informação!
+- 📫 Como entrar em contato comigo: Pode entrar em contato comigo pelo Instagram ou Whatsapp ou meu email pessoal!
+- ⚡ Curiosidade: Sou bastante ativo e gosto sempre de estar produzindo ou aprendendo algo relacionado a minha área pois sou apaixonado na mesma!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contatos:
+
+<div>
+<a href="https://www.youtube.com/channel/UC88QEmxaSyY_V2vXn1RMgQQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/_anthonny_michael_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:anthonnybalbino2017@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/anthonny-michael-64450a206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
