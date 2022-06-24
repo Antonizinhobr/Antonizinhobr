@@ -12,7 +12,7 @@
 
 <br>
 
-<h1 color="red">What technologies do I use to develop?</h1>
+<p align="center">What technologies do I use to develop? List below!<p>
 
 <br>
 
