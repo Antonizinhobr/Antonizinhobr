@@ -1,6 +1,6 @@
 <div align=>
   <h1>👋Hello, i am Anthonny Michael👋</h1>
-  <img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" alt="cat-keyboard" />
+  <img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" alt="cat-keyboard" width="250em" />
 </div>
 
 <br>
