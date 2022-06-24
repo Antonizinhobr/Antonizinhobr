@@ -1,6 +1,6 @@
 <div align=>
   <h1>👋Hello, i am Anthonny Michael👋</h1>
-  <img src="https://tenor.com/view/cat-crazy-cat-keyboard-cat-fast-gif-5753018" alt="cat-keyboard"  width="250"/>
+  <img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" alt="cat-keyboard" />
 </div>
 
 <br>
