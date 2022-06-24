@@ -2,8 +2,6 @@
   <h1>Hello, i am Anthonny Michael</h1>
 </div>
 
-![](https://user-images.githubusercontent.com/53356340/175648411-f2564ad9-c2a5-4c84-9dd2-61aaf9e21a44.gif)
-
 <br>
 
 - 🔭 I am currently working at AeC Arapiraca as an Ifood Analyst!
