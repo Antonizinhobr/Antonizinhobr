@@ -1,7 +1,10 @@
-Olá, fico feliz que esteja visitando meu perfil, sinta-se a vontade! 👋
+<div>
+  <h1>Anthonny Michael</h1>
+<div>
 
+<div align="center">
 ![](https://user-images.githubusercontent.com/53356340/175648411-f2564ad9-c2a5-4c84-9dd2-61aaf9e21a44.gif)
-
+</div>
 
 - 🔭 Atualmente estou trabalhando em AeC Arapiraca como Analista do Ifood!
 - 🌱 Sou desenvolvedor front-end, back-end, mobile e pentester! Sempre aprendendo!
@@ -25,7 +28,7 @@ Olá, fico feliz que esteja visitando meu perfil, sinta-se a vontade! 👋
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<div>
+</div>
 
 <br>
 
