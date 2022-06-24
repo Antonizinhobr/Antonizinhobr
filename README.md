@@ -9,7 +9,7 @@
   <br>
   <br>
   <br>
-  <br>
+  <p>💻🎮 I love spending free time playing or developing something!</p> 
   <p>🔭 I am currently working at AeC Arapiraca as an Ifood Analyst!</p>
   <p>🌱 I'm a front-end, back-end, mobile and pentester developer! Always learning!</p>                                                                     
   <p>⚡ Curiosity: I'm very active and I always like to be producing or learning something related to my area because I'm passionate about it!</p>
