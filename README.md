@@ -5,7 +5,7 @@
 - 🌱 Sou desenvolvedor front-end, back-end, mobile e pentester! Sempre aprendendo!
 - ⚡ Curiosidade: Sou bastante ativo e gosto sempre de estar produzindo ou aprendendo algo relacionado a minha área pois sou apaixonado na mesma!
 
-
+<br>
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
@@ -13,6 +13,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonizinhobr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<br>
   
 ### Como me contactar?:
 
