@@ -53,6 +53,7 @@
 </div>
 
 <br>
+<br>
 
 <h1 align="center">⚡GitHub Stats</h1>
 <div align="center">
