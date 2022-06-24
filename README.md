@@ -1,6 +1,6 @@
-### Olá, fico feliz que esteja visitando meu perfil, sinta-se a vontade! ### 👋
+Olá, fico feliz que esteja visitando meu perfil, sinta-se a vontade! 👋
 
-![tenor](https://user-images.githubusercontent.com/53356340/175648411-f2564ad9-c2a5-4c84-9dd2-61aaf9e21a44.gif)
+                         ![tenor](https://user-images.githubusercontent.com/53356340/175648411-f2564ad9-c2a5-4c84-9dd2-61aaf9e21a44.gif)
 
 
 - 🔭 Atualmente estou trabalhando em AeC Arapiraca como Analista do Ifood!
