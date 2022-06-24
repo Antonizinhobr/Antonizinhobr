@@ -1,12 +1,9 @@
 <div align="center">
   <h1>👋Hello, i am Anthonny Michael👋</h1>
+  <img src="https://user-images.githubusercontent.com/53356340/175666427-1de9ed80-7920-483e-9729-edbca0703b13.gif" autoplay/>
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/53356340/175666427-1de9ed80-7920-483e-9729-edbca0703b13.gif" autoplay/>
-</p>
 
 <div>
   <img height="350em" width="300em" align="right" src="https://user-images.githubusercontent.com/53356340/175663883-c50eec2a-ea8d-48c1-a813-5fee6573aed7.png" /> 
