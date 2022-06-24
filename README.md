@@ -4,6 +4,12 @@
 
 <br>
 
+<div align="center">
+  <video width="320" height="240">
+  <source src="https://tenor.com/view/cat-crazy-cat-keyboard-cat-fast-gif-5753018" type="video/mp4">
+</video>
+</div>
+
 <div>
   <img height="350em" width="300em" align="right" src="https://user-images.githubusercontent.com/53356340/175663883-c50eec2a-ea8d-48c1-a813-5fee6573aed7.png" /> 
   <br>
