@@ -52,4 +52,4 @@
 </div>
 
 <br>
-- [Website](https://www.anthonnymichael.com/)💻 - Estou trabalhando nisso e jajá estará pronto!
+- [Website](https://anthonnymichael.dev/) 💻 - Estou trabalhando nisso e jajá estará pronto!
