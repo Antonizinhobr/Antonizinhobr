@@ -6,7 +6,9 @@
 
 <div>
   <p>🔭 I am currently working at AeC Arapiraca as an Ifood Analyst!</p>
-  <p>🌱 I'm a front-end, back-end, mobile and pentester developer! Always learning!</p>                                                                                 <p>- ⚡ Curiosity: I'm very active and I always like to be producing or learning something related to my area because I'm passionate about it!</p>    
+  <p>🌱 I'm a front-end, back-end, mobile and pentester developer! Always learning!</p>                                                                                 <p>⚡ Curiosity: I'm very active and I always like to be producing or learning something related to my area because I'm passionate about it!</p>
+  <img src="![WhatsApp_Image_2022-06-24_at_17 32 14-removebg-preview](https://user-images.githubusercontent.com/53356340/175663545-e092ea79-3a66-4a0d-b55a-1dd0793d8a6a.png)" />
+
 </div>
 
 <br>
