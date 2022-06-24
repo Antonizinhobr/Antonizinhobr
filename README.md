@@ -13,7 +13,11 @@
 <br>
 
 <div>
-  <h1>🔭 Tecnologias que uso para desenvolvimento Web</h1>
+  <h1 color="red">What technologies do I use to develop?</h1>
+</div>
+
+<div>
+  <h1>🔭 I use it for web development full-stack!!</h1>
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -27,7 +31,7 @@
 <br>
 
 <div>
-  <h1>🔭 Tecnologias que uso para desenvolvimento Mobile</h1>
+  <h1>🔭 I use it for mobile development!!</h1>
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
@@ -36,7 +40,7 @@
 <br>
 
 <div>
-  <h1> 🔭 Tecnologias que uso para desenvolvimento de banco de dados</h1>
+  <h1> 🔭 I use it for database development</h1>
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
@@ -46,7 +50,7 @@
 <br>
 
 <div>
-  <h1> 🔭 Tecnologias que uso para desenvolvimento Desktop e Análise de Dados</h1>
+  <h1> 🔭 I use it for desktop program development and data analysis</h1>
    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </div>
@@ -54,8 +58,8 @@
 <br>
 
 <div>
-  <h1> 🔭 Sistemas Operacionais que uso</h1>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  <h1> 🔭 Operating systems I use</h1>
+  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
