@@ -11,7 +11,7 @@
 - ⚡ Curiosity: I'm very active and I always like to be producing or learning something related to my area because I'm passionate about it!
 
 <br>
-
+<h1></h1>
 <h1><p align="center">What technologies do I use to develop? List below!<p></h1>
 
 <br>
