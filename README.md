@@ -5,7 +5,11 @@
 - 🌱 Sou desenvolvedor front-end, back-end, mobile e pentester! Sempre aprendendo!
 - ⚡ Curiosidade: Sou bastante ativo e gosto sempre de estar produzindo ou aprendendo algo relacionado a minha área pois sou apaixonado na mesma!
 
-<br>
+<div>
+  <h1>🔭 Tecnologias que uso</h1>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<div>
+
 <br>
 
 <h1>⚡GitHub Stats</h1>
