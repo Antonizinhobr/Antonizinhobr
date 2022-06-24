@@ -5,7 +5,7 @@
 <br>
 
 <div>
-  <img height="300em" align="right" src="https://user-images.githubusercontent.com/53356340/175663883-c50eec2a-ea8d-48c1-a813-5fee6573aed7.png" /> 
+  <img height="200em" align="right" src="https://user-images.githubusercontent.com/53356340/175663883-c50eec2a-ea8d-48c1-a813-5fee6573aed7.png" /> 
   <p>🔭 I am currently working at AeC Arapiraca as an Ifood Analyst!</p>
   <p>🌱 I'm a front-end, back-end, mobile and pentester developer! Always learning!</p>                                                                                 <p>⚡ Curiosity: I'm very active and I always like to be producing or learning something related to my area because I'm passionate about it!</p>
 </div>
