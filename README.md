@@ -10,7 +10,7 @@
 
 <br>
 <h1></h1>
-<h1><p align="center">What technologies do I use to develop? List below!<p></h1>
+<h1><p align="center">What technologies do I use to develop?<p></h1>
 
 <br>
 
