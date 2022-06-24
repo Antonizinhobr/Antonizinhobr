@@ -1,6 +1,8 @@
 ### Olá, fico feliz que esteja visitando meu perfil, sinta-se a vontade! ### 👋
 
-<div class="tenor-gif-embed" data-postid="5753018" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-crazy-cat-keyboard-cat-fast-gif-5753018">Cat Crazy Cat GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div>
+  <img src="https://tenor.com/view/cat-crazy-cat-keyboard-cat-fast-gif-5753018" />
+<div>
 
 - 🔭 Atualmente estou trabalhando em AeC Arapiraca como Analista do Ifood!
 - 🌱 Sou desenvolvedor front-end, back-end, mobile e pentester! Sempre aprendendo!
