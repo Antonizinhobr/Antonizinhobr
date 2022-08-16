@@ -4,15 +4,9 @@
 </div>
 
 <br>
-
-
-<h1></h1>
-<h1><p align="center">What technologies do I use to develop?<p></h1>
-
 <br>
 
 ### Tecnologias e Ferramentas:
-50em
 <div>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
