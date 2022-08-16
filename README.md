@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋Hello, i am Anthonny Michael👋</h1>
+  <h1>Olá, sou Anthonny Michael</h1>
   <img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" />
 </div>
 
