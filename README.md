@@ -43,4 +43,4 @@
 </div>
 <br>
   
-- [Website](https://anthonnydev.com/) 💻
+<a href="https://anthonnydev.com/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
