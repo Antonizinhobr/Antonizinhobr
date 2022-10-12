@@ -44,4 +44,4 @@
 <br>
 
 ### Meu Portfólio
-<a href="https://anthonnydev.com/" target="_blank"><img height="50em" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+<a href="https://anthonnydev.com/" target="_blank"><img height="20em" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
