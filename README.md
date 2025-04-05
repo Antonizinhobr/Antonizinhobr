@@ -27,7 +27,7 @@ class Skills extends Desenvolvedor {
 
 ### 🚀 Sobre Mim
 
-🎨 Desenvolvedor Front-End com foco em **interfaces modernas e responsivas**, utilizando **React**, **Angular**, **JavaScript** e **TypeScript**.  
+🎨 Desenvolvedor Front-End com foco em **interfaces modernas e responsivas**, utilizando **React**, **Angular** e **Vue**.  
 📊 Também atuo com **Python para análise de dados**, **machine learning**, visualizações e manipulação de dados.  
 🌱 Atualmente estudando mais sobre **AI e Data Visualization**.  
 🧠 Amante de tecnologia, apaixonado por aprender e construir projetos com impacto real.
