@@ -4,7 +4,7 @@
 
 ### Olá, meu nome é Anthonny Michael!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Anthonny Michael&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Antonizinhobr&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 ```js
 import Desenvolvedor from "Anthonny Michael";
