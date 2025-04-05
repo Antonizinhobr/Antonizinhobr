@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/8X1nq4L.png" alt="Banner Anthonny Michael" />
+  <img src="https://imgur.com/a/Auwee5P.png" alt="Banner Anthonny Michael" />
 </p>
 
 <p align="center">
