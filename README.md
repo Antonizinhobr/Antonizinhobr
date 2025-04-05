@@ -1,43 +1,102 @@
-<div>
-  <h1>Olá, sou Anthonny Michael</h1>
-  <img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" />
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/8X1nq4L.png" alt="Banner Anthonny Michael" />
+</p>
 
-<br>
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Olá%2C+sou+Anthonny+Michael!;Desenvolvedor+Front-End;Apaixonado+por+Dados+e+Machine+Learning;Bem-vindo+ao+meu+GitHub+👋" alt="Typing SVG" />
+</p>
 
-### 💻Tecnologias e Ferramentas:
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <div>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-  </div>
-</div>
+---
 
-<br>
-<br>
+### 🚀 Sobre Mim
 
-### ⚡GitHub Stats
-<div>
-<a href="https://github.com/Antonizinhobr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonizinhobr&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonizinhobr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+🎨 Desenvolvedor Front-End com foco em **interfaces modernas, responsivas e performáticas**, utilizando **React**, **Angular**, **JavaScript** e **TypeScript**.  
+📊 Também atuo com **Python para análise de dados**, **machine learning**, visualizações e manipulação de dados com **Pandas**, **NumPy**, e **Scikit-Learn**.  
+🌱 Atualmente estudando mais sobre **AI e Data Visualization**.  
+🧠 Amante de tecnologia, apaixonado por aprender e construir projetos com impacto real.
 
-<br> 
-  
-### Redes sociais e plataformas:
+---
 
-<div>
-<a href="https://www.youtube.com/channel/UC88QEmxaSyY_V2vXn1RMgQQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/_anthonny_michael_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/anthonny-michael-5a18a1251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<br>
+### 🧰 Tech Stack
 
-### Meu Portfólio
-<a href="https://antonizinhobr.github.io/My-Portfolio/" target="_blank"><img height="35em" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,python,mysql,git,pandas,numpy,figma" /></a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonizinhobr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonizinhobr&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+---
+
+### 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Antonizinhobr&theme=radical&row=1&column=6" />
+</p>
+
+---
+
+### 🐍 Snake Game
+
+![snake gif](https://github.com/Antonizinhobr/Antonizinhobr/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🚀 Projetos em Destaque
+
+- 🔥 [**YouTube Music Downloader App**](https://github.com/Antonizinhobr/ytmusic-downloader)  
+  Interface intuitiva para baixar músicas do YouTube com suporte a playlists e qualidade personalizada.
+
+- 📊 [**Dashboard de Análise de Dados**](https://github.com/Antonizinhobr/data-dashboard)  
+  Visualização interativa de dados com Python, Pandas, Plotly e Dash.
+
+- 💬 [**Clone do WhatsApp Web**](https://github.com/Antonizinhobr/whatsapp-clone)  
+  Front-end completo responsivo com React + Firebase.
+
+---
+
+### 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC88QEmxaSyY_V2vXn1RMgQQ" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_anthonny_michael_dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anthonny-michael-5a18a1251/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🌍 Meu Portfólio
+
+<p align="center">
+  <a href="https://antonizinhobr.github.io/My-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Visite meu Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ✨ Fun Facts
+
+- 💡 Desenvolver me faz sentir criativo e produtivo.
+- 🎧 Gosto de ouvir música eletrônica e lo-fi enquanto programo.
+- 🎮 Quando não estou codando, provavelmente estou jogando algo estratégico.
+- 📈 Amo transformar dados em **decisões visuais** com dashboards.
+- 🚀 Sempre buscando novos desafios, colaborações e aprendizados!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
