@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://i.imgur.com/4GbuSXp_d.png?maxwidth=520&shape=thumb&fidelity=high" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Olá%2C+sou+Anthonny+Michael!;Desenvolvedor+Front-End;Apaixonado+por+Dados+e+Machine+Learning;Bem-vindo+ao+meu+GitHub+👋" alt="Typing SVG" />
-</p>
+<img src="https://i.imgur.com/4GbuSXp_d.png?maxwidth=520&shape=thumb&fidelity=high" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Olá%2C+sou+Anthonny+Michael!;Desenvolvedor+Front-End;Apaixonado+por+Dados+e+Machine+Learning;Bem-vindo+ao+meu+GitHub+👋" alt="Typing SVG" />
 
 ---
 
@@ -19,54 +14,33 @@
 
 ### 🧰 Tech Stack
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,python,mysql,git,figma" /></a>
-</p>
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,python,mysql,git,figma" /></a>
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonizinhobr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonizinhobr&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
----
-
-### 🚀 Projetos em Destaque
-
-- 🔥 [**YouTube Music Downloader App**](https://github.com/Antonizinhobr/ytmusic-downloader)  
-  Interface intuitiva para baixar músicas do YouTube com suporte a playlists e qualidade personalizada.
-
-- 📊 [**Dashboard de Análise de Dados**](https://github.com/Antonizinhobr/data-dashboard)  
-  Visualização interativa de dados com Python, Pandas, Plotly e Dash.
-
-- 💬 [**Clone do WhatsApp Web**](https://github.com/Antonizinhobr/whatsapp-clone)  
-  Front-end completo responsivo com React + Firebase.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonizinhobr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonizinhobr&layout=compact&langs_count=8&theme=radical"/>
 
 ---
 
 ### 🌐 Onde me encontrar
 
-<p align="center">
-  <a href="https://www.instagram.com/santos.dev_01/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anthonny-michael/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.instagram.com/santos.dev_01/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/anthonny-michael/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ---
 
 ### 🌍 Meu Portfólio
 
-<p align="center">
-  <a href="https://antonizinhobr.github.io/My-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Visite meu Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-</p>
+<a href="https://antonizinhobr.github.io/My-Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Visite meu Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
 
 ---
 
