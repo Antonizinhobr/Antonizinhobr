@@ -11,12 +11,12 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
+        self.name = "Anthonny Michael"
         self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.language_spoken = ["en_US", "es_ES", "pt_BR"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Obrigado pela visita, espero que você ache alguns dos meus trabalhos interessantes.")
 
 
 me = SoftwareEngineer()
