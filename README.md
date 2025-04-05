@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/Auwee5P.png" alt="Banner Anthonny Michael" />
+  <img src="https://i.imgur.com/4GbuSXp_d.png?maxwidth=520&shape=thumb&fidelity=high" />
 </p>
 
 <p align="center">
@@ -34,17 +34,9 @@
 
 ---
 
-### 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Antonizinhobr&theme=radical&row=1&column=6" />
-</p>
-
----
-
 ### 🐍 Snake Game
 
-![snake gif](https://github.com/Antonizinhobr/Antonizinhobr/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Antonizinhobr/Antonizinhobr/output/github-contribution-grid-snake.svg)
 
 ---
 
