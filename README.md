@@ -20,7 +20,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,python,mysql,git,pandas,numpy,figma" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,python,mysql,git,figma" /></a>
 </p>
 
 ---
