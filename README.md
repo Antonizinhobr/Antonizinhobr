@@ -1,4 +1,6 @@
-<img align="center" src="https://i.imgur.com/4GbuSXp_d.png?maxwidth=520&shape=thumb&fidelity=high" />
+<p align="center">
+  <img src="https://i.imgur.com/4GbuSXp_d.png?maxwidth=520&shape=thumb&fidelity=high" />
+</p>
 
 ### Olá, meu nome é Anthonny Michael!
 
