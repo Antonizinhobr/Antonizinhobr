@@ -3,24 +3,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Olá%2C+sou+Anthonny+Michael!;Desenvolvedor+Front-End;Apaixonado+por+Dados+e+Machine+Learning;Bem-vindo+ao+meu+GitHub+👋" alt="Typing SVG" />
 </p>
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+```js
+import Desenvolvedor from "Anthonny Michael";
 
+class SobreMim extends Desenvolvedor {
+  nome = "Anthonny Michael";
+  area = "Front-End, Dados e Machine Learning";
+}
 
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Anthonny Michael"
-        self.role = "Software Engineer"
-        self.language_spoken = ["en_US", "es_ES", "pt_BR"]
-
-    def say_hi(self):
-        print("Obrigado pela visita, espero que você ache alguns dos meus trabalhos interessantes.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
+class Skills extends Desenvolvedor {
+  linguagens = ["Html5, Css3, JavaScript, TypeScript"];
+  frameworks = ["React, Angular, Vue"];
+}
 ```
 
 ---
@@ -36,7 +30,7 @@ me.say_hi()
 
 ### 🧰 Tech Stack
 
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,python,mysql,git,figma" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,bootstrap,python,mysql,git,figma" /></a>
 
 ---
 
