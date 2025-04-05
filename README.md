@@ -1,6 +1,7 @@
-<img src="https://i.imgur.com/4GbuSXp_d.png?maxwidth=520&shape=thumb&fidelity=high" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Olá%2C+sou+Anthonny+Michael!;Desenvolvedor+Front-End;Apaixonado+por+Dados+e+Machine+Learning;Bem-vindo+ao+meu+GitHub+👋" alt="Typing SVG" />
-
+<p align="center">
+  <img src="https://i.imgur.com/4GbuSXp_d.png?maxwidth=520&shape=thumb&fidelity=high" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Olá%2C+sou+Anthonny+Michael!;Desenvolvedor+Front-End;Apaixonado+por+Dados+e+Machine+Learning;Bem-vindo+ao+meu+GitHub+👋" alt="Typing SVG" />
+</p>
 ---
 
 ### 🚀 Sobre Mim
