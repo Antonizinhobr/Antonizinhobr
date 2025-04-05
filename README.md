@@ -2,6 +2,9 @@
   <img src="https://i.imgur.com/4GbuSXp_d.png?maxwidth=520&shape=thumb&fidelity=high" />
 </p>
 
+### Olá, meu nome é Anthonny Michael!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Anthonny Michael&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 ```js
 import Desenvolvedor from "Anthonny Michael";
