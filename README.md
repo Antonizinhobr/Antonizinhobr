@@ -1,5 +1,5 @@
-<img align='right' src="https://i.imgur.com/4GbuSXp_d.png?maxwidth=520&shape=thumb&fidelity=high" />
-
+<img src="https://i.imgur.com/4GbuSXp_d.png?maxwidth=520&shape=thumb&fidelity=high" />
+<br>
 ```js
 import Desenvolvedor from "Anthonny Michael";
 
