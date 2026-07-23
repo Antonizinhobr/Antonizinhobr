@@ -40,15 +40,6 @@ class Skills extends Desenvolvedor {
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonizinhobr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonizinhobr&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
----
-
 ### 🌐 Onde me encontrar
 
 <a href="https://www.instagram.com/santos.dev_01/" target="_blank">
